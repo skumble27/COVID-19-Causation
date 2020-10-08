@@ -22,7 +22,7 @@ Research questions
 
 
 
-### 2. Are pre-existing health factors manipulating infection rates?
+### 2. Are health related factors manipulating infection rates?
 
 
 
